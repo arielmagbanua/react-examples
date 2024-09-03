@@ -1,0 +1,82 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Myra"
+    },
+    {
+      "id": "2",
+      "name": "Yuri"
+    },
+    {
+      "id": "cd8c",
+      "name": "Jackie Quigley"
+    },
+    {
+      "id": "cd91",
+      "name": "Jenny Mann"
+    },
+    {
+      "id": "8a01",
+      "name": "Lorraine Koch"
+    },
+    {
+      "id": "045f",
+      "name": "Mamie Lubowitz"
+    }
+  ],
+  "albums": [
+    {
+      "id": "10",
+      "title": "Hiking Trip",
+      "userId": "1"
+    },
+    {
+      "id": "2217",
+      "userId": "1",
+      "title": "Awesome Fresh Computer"
+    },
+    {
+      "id": "90b6",
+      "userId": "1",
+      "title": "Awesome Steel Soap"
+    },
+    {
+      "id": "bfbd",
+      "userId": "1",
+      "title": "Handmade Cotton Keyboard"
+    },
+    {
+      "id": "b3b2",
+      "userId": "cd91",
+      "title": "Practical Wooden Ball"
+    },
+    {
+      "id": "d715",
+      "userId": "1",
+      "title": "Refined Metal Soap"
+    },
+    {
+      "id": "fc36",
+      "userId": "2",
+      "title": "Luxurious Soft Chair"
+    }
+  ],
+  "photos": [
+    {
+      "id": "e2ba",
+      "albumId": "fc36",
+      "url": "https://loremflickr.com/150/150/abstract?lock=98658"
+    },
+    {
+      "id": "1e72",
+      "albumId": "fc36",
+      "url": "https://loremflickr.com/150/150/abstract?lock=8137"
+    },
+    {
+      "id": "f1a8",
+      "albumId": "fc36",
+      "url": "https://loremflickr.com/150/150/abstract?lock=44151"
+    }
+  ]
+}
